@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642652465 source:c:\users\jrm\desktop\projeto01\main.c
+	<stdio.h>
+	<stdlib.h>
+
